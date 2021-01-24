@@ -1,8 +1,1 @@
-# Sources
-*.c++ linguist-vendored=false
-examples/* linguist-vendored
-* linguist-vendored
-*.c++ linguist-vendored=false
-
-
-
+*.* linguist-language=C++U
