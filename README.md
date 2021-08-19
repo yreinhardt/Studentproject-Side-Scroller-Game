@@ -1,3 +1,4 @@
 # Studentproject-Side-Scroller-Game
 
-![](gameplay-min.gif)
+
+<img src="https://github.com/yreinhardt/Studentproject-Side-Scroller-Game/gameplay-min.gif" width="250" height="250"/>
